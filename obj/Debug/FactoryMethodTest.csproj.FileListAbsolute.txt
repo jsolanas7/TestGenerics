@@ -1,0 +1,6 @@
+C:\Users\jsolanas\source\repos\FactoryMethodTest\FactoryMethodTest\bin\Debug\FactoryMethodTest.exe.config
+C:\Users\jsolanas\source\repos\FactoryMethodTest\FactoryMethodTest\bin\Debug\FactoryMethodTest.exe
+C:\Users\jsolanas\source\repos\FactoryMethodTest\FactoryMethodTest\bin\Debug\FactoryMethodTest.pdb
+C:\Users\jsolanas\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\FactoryMethodTest.csprojAssemblyReference.cache
+C:\Users\jsolanas\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\FactoryMethodTest.exe
+C:\Users\jsolanas\source\repos\FactoryMethodTest\FactoryMethodTest\obj\Debug\FactoryMethodTest.pdb
